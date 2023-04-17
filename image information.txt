@@ -1,0 +1,22 @@
+image 6 - 10 same type parking lot image
+        if count < 1000:
+            color = (0, 255, 0)
+            thickness = 5
+            spaceCounter += 1
+        else:
+            color = (0, 0, 255)
+            thickness = 2
+ for image 8,9,10 correction is needed
+
+
+
+
+##  for testImage2 :-
+        if count < 500:
+            color = (0, 255, 0)
+            thickness = 5
+            spaceCounter += 1
+        else:
+            color = (0, 0, 255)
+            thickness = 2
+
