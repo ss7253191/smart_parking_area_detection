@@ -6,7 +6,7 @@ import numpy as np
 # Video feed
 # cap = cv2.VideoCapture('carPark.mp4')
 # cap = cv2.imread('parking_lot.jpg')
-cap = cv2.imread('image10.jpg')
+cap = cv2.imread('image6.jpg')
 
 # with open('parking_lot_pos', 'rb') as f:
 #     posList = pickle.load(f)
